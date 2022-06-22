@@ -1,0 +1,167 @@
+body {
+  background-color: #EEEEEE;
+  text-align: center;
+  font-weight: lighter;
+  font-family: 'Lexend Deca', sans-serif;
+  color: #06113C;
+  margin: 0;
+}
+
+a{
+  color: #06113C;
+}
+a:hover{
+  color: #FF8C32;
+}
+
+h1 {
+  color: #FF8C32;
+  font-size: 3rem;
+  font-family: 'Press Start 2P', cursive;
+  margin: 50px auto 0 auto;
+}
+
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 2rem;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+}
+
+p {
+  line-height: 2;
+
+}
+
+
+
+hr {
+  border: dotted #536162 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.top-container {
+  color: black;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+position: absolute;
+right:200px;
+top:40px;}
+
+.title-text {
+margin-top: 100px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left:200px;
+
+}
+
+.mountain {
+
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #536162;
+  padding: 50px 0 20px;
+
+}
+
+.profile {
+
+}
+
+.skills {
+
+}
+
+.intro {
+width: 30%;
+margin: auto;}
+
+.skill-row {
+  font-family: 'Raleway', sans-serif;
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.website-img {
+  width:25%;
+  float: left;
+  margin-right: 50px;
+}
+
+.ml-img {
+  width:25%;
+  float: right;
+  margin-left: 50px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.bottom-container {
+
+}
+
+
+.footer-link {
+margin: 10px 20px;
+text-decoration: none;
+}
+
+.footer {
+  color: #DDDDDD;
+  font-size: 0.75rem;
+  font-family: 'Ubuntu Mono', monospace;
+  padding: 20px 0;
+}
+
+.btn {
+  background: #03506F;
+  background-image: -webkit-linear-gradient(top, #03506F, #2e7bab);
+  background-image: -moz-linear-gradient(top, #03506F, #2e7bab);
+  background-image: -ms-linear-gradient(top, #03506F, #2e7bab);
+  background-image: -o-linear-gradient(top, #03506F, #2e7bab);
+  background-image: linear-gradient(to bottom, #03506F, #2e7bab);
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: 'Raleway', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  margin: 100px auto;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
